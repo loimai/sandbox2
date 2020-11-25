@@ -2,20 +2,6 @@ R Notebook
 ================
 
 ``` r
-install.packages("knitr")
-```
-
-    ## Installing package into '/usr/local/lib/R/site-library'
-    ## (as 'lib' is unspecified)
-
-``` r
-install.packages("rmarkdown")
-```
-
-    ## Installing package into '/usr/local/lib/R/site-library'
-    ## (as 'lib' is unspecified)
-
-``` r
 library(knitr)
 library(rmarkdown)
 ```
