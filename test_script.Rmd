@@ -4,8 +4,6 @@ output: github_document
 ---
 
 ```{r}
-install.packages("knitr")
-install.packages("rmarkdown")
 library(knitr)
 library(rmarkdown)
 ```
